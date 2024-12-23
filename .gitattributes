@@ -1,0 +1,1 @@
+example/database/replacements02_sc2.5.db filter=lfs diff=lfs merge=lfs -text
